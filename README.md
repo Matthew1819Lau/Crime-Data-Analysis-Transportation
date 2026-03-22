@@ -25,12 +25,12 @@ Project name: [Crime Data Analysis - Transport for London and 32 London Boroughs
 ## Limitations :warning:
 - Passenger journey estimates were derived indirectly and may introduce measurement error
 - The post-COVID period contains relatively few observations, limiting the statistical power of the analysis
-- Spatial variation within transport modes was not explored in detail
+- Spatial variation within transport modes was not explored in details
 
-## What I learned :heavy_exclamation_mark:
+## What I have learnt :heavy_exclamation_mark:
 - Identified that transport-related crime is not fully explained by overall borough crime trends
 - The post-COVID period contains relatively few observations, limiting the statistical power of the analysis
-- Spatial variation within transport modes was not explored in detail
+- Spatial variation within transport modes was not explored in details
 
 ## Future Improvements :chart_with_upwards_trend:
 - To have more precise and deeper crime analysis, I will obtain more granular crime data at the individual TfL station level and apply more advanced time series modelling techiques to visualise the data.
